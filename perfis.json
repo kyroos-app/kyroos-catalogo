@@ -1,0 +1,15 @@
+{
+ "versao": 1,
+ "perfis": [
+  { "nome": "PC Básico", "descricao": "O mínimo para qualquer PC",
+    "programas": ["Google.Chrome", "7zip.7zip", "VideoLAN.VLC", "Adobe.Acrobat.Reader.64-bit", "AnyDesk.AnyDesk"] },
+  { "nome": "PC Escritório", "descricao": "Trabalho, documentos e reuniões",
+    "programas": ["Google.Chrome", "7zip.7zip", "Adobe.Acrobat.Reader.64-bit", "TheDocumentFoundation.LibreOffice", "Zoom.Zoom", "AnyDesk.AnyDesk", "geeksoftwareGmbH.PDF24Creator"] },
+  { "nome": "PC Gamer", "descricao": "Lojas de jogos, Discord e bibliotecas",
+    "programas": ["Google.Chrome", "Discord.Discord", "Valve.Steam", "EpicGames.EpicGamesLauncher", "Microsoft.VCRedist.2015+.x64", "Microsoft.DirectX", "7zip.7zip"] },
+  { "nome": "Estudante", "descricao": "Estudo, aulas online e anotações",
+    "programas": ["Google.Chrome", "TheDocumentFoundation.LibreOffice", "Adobe.Acrobat.Reader.64-bit", "Zoom.Zoom", "Obsidian.Obsidian", "7zip.7zip"] },
+  { "nome": "Bancada do técnico", "descricao": "Diagnóstico de hardware e acesso remoto",
+    "programas": ["CPUID.CPU-Z", "CrystalDewWorld.CrystalDiskInfo", "REALiX.HWiNFO", "Notepad++.Notepad++", "AnyDesk.AnyDesk", "7zip.7zip"] }
+ ]
+}
