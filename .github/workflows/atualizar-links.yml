@@ -1,0 +1,74 @@
+# [Claude] ARQUIVO NOVO — roda sozinho todo dia e atualiza o links.json
+# [Claude 16/11] Agora também confere se cada link funciona (scripts/verificar_links.py) e abre um aviso (Issue) se algo quebrar.
+name: Atualizar links.json
+
+on:
+  schedule:
+    - cron: "17 6 * * *"   # todo dia às 06:17 UTC (03:17 em Brasília)
+  workflow_dispatch:        # botão "Run workflow" para rodar na hora
+  push:
+    paths:
+      - catalogo.json       # mudou o catálogo? gera os links de novo
+      - scripts/gerar_links.py
+      - scripts/verificar_links.py
+
+permissions:
+  contents: write           # para poder salvar o links.json no repositório
+  issues: write             # [Claude 16/11] para abrir/fechar o aviso de links quebrados
+
+jobs:
+  gerar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependências
+        run: pip install pyyaml
+
+      # [Claude 16/11] guarda o links.json de ontem (para voltar à versão que funcionava)
+      - name: Guardar o links.json anterior
+        run: cp links.json "$RUNNER_TEMP/links.anterior.json" || true
+
+      - name: Gerar links.json
+        run: python scripts/gerar_links.py --catalogo catalogo.json --saida links.json --pasta-winget "$RUNNER_TEMP/winget-pkgs"
+
+      # [Claude 16/11] confere os links; cada programa tem o SHA256 conferido 1 vez por semana
+      - name: Verificar os links
+        id: verificar
+        run: python scripts/verificar_links.py --links links.json --anterior "$RUNNER_TEMP/links.anterior.json" --estado verificacao.json --relatorio "$RUNNER_TEMP/relatorio-links.md"
+
+      - name: Salvar no repositório
+        run: |
+          git config user.name "kyroos-bot"
+          git config user.email "kyroos-bot@users.noreply.github.com"
+          git add links.json verificacao.json
+          if git diff --cached --quiet; then
+            echo "Nada mudou hoje."
+          else
+            git commit -m "links.json atualizado e verificado $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+      # [Claude 16/11] aviso no GitHub: abre (ou atualiza) quando há link quebrado; fecha quando tudo volta ao normal
+      - name: Avisar links quebrados
+        env:
+          GH_TOKEN: ${{ github.token }}
+          QUEBRADOS: ${{ steps.verificar.outputs.quebrados }}
+        run: |
+          gh label create links-quebrados --color D93F0B --description "Aviso automático do verificador de links" 2>/dev/null || true
+          ABERTO=$(gh issue list --label links-quebrados --state open --json number --jq '.[0].number')
+          if [ "${QUEBRADOS:-0}" != "0" ]; then
+            if [ -n "$ABERTO" ]; then
+              gh issue edit "$ABERTO" --body-file "$RUNNER_TEMP/relatorio-links.md"
+              gh issue comment "$ABERTO" --body "Verificação de $(date -u +%d/%m/%Y): ${QUEBRADOS} link(s) com problema."
+            else
+              gh issue create --title "Links com problema no catálogo do Kyroos" --label links-quebrados --body-file "$RUNNER_TEMP/relatorio-links.md"
+            fi
+          elif [ -n "$ABERTO" ]; then
+            gh issue close "$ABERTO" --comment "Todos os links voltaram a funcionar em $(date -u +%d/%m/%Y). ✅"
+          fi
