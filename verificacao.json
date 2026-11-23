@@ -1,4563 +1,4572 @@
 {
- "atualizadoEm": "2026-11-22T07:17:53Z",
+ "atualizadoEm": "2026-11-23T07:43:09Z",
  "programas": {
   "2BrightSparks.SyncBackSE": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "erro HTTP 403"
   },
   "3TSoftwareLabs.Robo3T": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "64Gram.64Gram": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "7zip.7zip": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "abbodi1406.vcredist": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Ablaze.Floorp": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "ACDSystems.ACDSee.Free": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "ActualBudget.ActualBudget": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "AdGuard.AdGuard": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "AdGuard.AdGuardVPN": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Adobe.Acrobat.Reader.32-bit": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "link ok (arquivo grande, SHA256 não conferido)"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Adobe.Acrobat.Reader.64-bit": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Adobe.Brackets": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Adobe.CreativeCloud": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "AdrienAllard.FileConverter": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "Aegisub.Aegisub": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "agalwood.Motrix": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "AgileBits.1Password": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "AIMP.AIMP": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "erro HTTP 404"
   },
   "AirDroid.AirDroid": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "AirExplorer.AirExplorer": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "AivarAnnamaa.Thonny": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "AkelPad.AkelPad": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "erro HTTP 403"
   },
   "Alacritty.Alacritty": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Albion.Online": {
    "falhasSeguidas": 0,
    "ultimaFalha": "2026-11-17T07:26:58Z",
    "ultimoMotivo": "ok",
-   "ultimoOk": "2026-11-22T07:17:53Z"
+   "ultimoOk": "2026-11-23T07:43:09Z"
   },
   "ALCPU.CoreTemp": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Alex313031.Thorium": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "AlexanderShaduri.GSmartControl": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "alexx2000.DoubleCommander": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Alibaba.DingTalk.Mainland": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Almico.SpeedFan": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Amazon.AWSCLI": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Amazon.Corretto.17.JDK": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "Amazon.Corretto.21.JDK": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Amazon.Games": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Amazon.Kindle": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "erro HTTP 403"
   },
   "Amazon.SAM-CLI": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Amazon.WorkspacesClient": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "AMD.AMDSoftwareCloudEdition": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Anaconda.Anaconda3": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "link ok (arquivo grande, SHA256 não conferido)"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Anaconda.Miniconda3": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "AnalogDevices.LTspice": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "AndreWiethoff.ExactAudioCopy": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "angryziber.AngryIPScanner": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "AngusJohnson.ResourceHacker": {
-   "falhasSeguidas": 0,
+   "falhasSeguidas": 1,
    "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoMotivo": "erro HTTP 406",
+   "ultimaFalha": "2026-11-23T07:43:09Z"
   },
   "Anki.Anki": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Anthropic.Claude": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "AntibodySoftware.WizTree": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "AntiMicroX.antimicrox": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "AntoineAflalo.SoundSwitch": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "AntSoftware.AntRenamer": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "AnyAssociation.Anytype": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "AnyDesk.AnyDesk": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Anydo.Anydo": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Anysphere.Cursor": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "AOMEI.Backupper.Standard": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "AOMEI.PartitionAssistant": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Apache.NetBeans": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Apache.OpenOffice": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "ApacheFriends.Xampp.8.2": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "erro HTTP 403"
   },
   "AppByTroye.KoodoReader": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Appest.TickTick": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "AppFlowy.AppFlowy": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "AppiumDevelopers.AppiumInspector": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Apple.Bonjour": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "o link abre uma página (text/plain), não um arquivo"
   },
   "Apple.iCloud": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Apple.iTunes": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "Apple.QuickTime": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "appmakes.Typora": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "AppWork.JDownloader": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Araxis.Merge": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "ArduinoSA.IDE.stable": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Argotronic.ArgusMonitor": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Asana.Asana": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Atlassian.Bitbucket": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "Atlassian.Confluence": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "link ok (arquivo grande, SHA256 não conferido)"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Atlassian.Sourcetree": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "ATLauncher.ATLauncher": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "AtomixProductions.VirtualDJ": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Audacious.MediaPlayer": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "Audacity.Audacity": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Auslogics.BoostSpeed": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Auslogics.DiskDefrag": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "AuthorMore.PenpotDesktop": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "AutoHotkey.AutoHotkey": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Automattic.Simplenote": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Avidemux.Avidemux": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "AWP.AtlantisWordProcessor": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok",
    "ultimaFalha": "2026-11-19T07:26:48Z"
   },
   "axcore.tartube": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "AxCrypt.AxCrypt": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "Axosoft.GitKraken": {
    "falhasSeguidas": 0,
    "ultimaFalha": "2026-11-17T07:26:58Z",
    "ultimoMotivo": "ok",
-   "ultimoOk": "2026-11-22T07:17:53Z"
+   "ultimoOk": "2026-11-23T07:43:09Z"
   },
   "Azul.Zulu.21.JDK": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "B3log.SiYuan": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Badlion.BadlionClient": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Balena.Etcher": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "Balsamiq.Wireframes": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'build_archives.s3.amazonaws.com'. (_ssl.c:1011)>"
   },
   "Bambulab.Bambustudio": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "BandicamCompany.Bandicam": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "BandicamCompany.Bandicut": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Bandisoft.Bandizip": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok",
    "ultimaFalha": "2026-11-21T07:16:43Z"
   },
   "Bandisoft.Honeyview": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "BandLab.Cakewalk": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "BartelsMedia.PhraseExpress": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "BartoszCichecki.LenovoLegionToolkit": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Basilisk.Basilisk": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Beeftext.Beeftext": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "beekeeper-studio.beekeeper-studio": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "Beeper.Beeper": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Belarc.Advisor": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "BelledonneCommunications.Linphone": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Bethesda.Launcher": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Betterbird.Betterbird": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "BiglySoftware.BiglyBT": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "BillStewart.SyncthingWindowsSetup": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "BinaryFortress.ClipboardFusion": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "BinaryFortress.DisplayFusion": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "BiniSoft.WindowsFirewallControl": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "BitSum.ParkControl": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "BitSum.ProcessLasso": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Bitwarden.Bitwarden": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "bitwig.bitwig": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "BleachBit.BleachBit": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "BlenderFoundation.Blender": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Blitz.Blitz": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "BlueStack.BlueStacks": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Blur009.BlurAutoClicker": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "BNotK.SAKLite": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Bopsoft.Listary": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Botkind.AllwaySync": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)>"
   },
   "Box.Box": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Brave.Brave": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "BriceLambson.ImageResizerforWindows": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Brother.iPrintScan": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Bruno.Bruno": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "buchen.portfolio": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "Bullzip.PDFPrinter": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Burnaware.BurnAwareFree": {
-   "falhasSeguidas": 2,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 3,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "o link abre uma página (text/html), não um arquivo",
    "ultimoOk": "2026-11-20T07:25:49Z"
   },
   "Burnaware.PDFShaper.Free": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "o link abre uma página (text/html), não um arquivo"
   },
   "Buttercup.Buttercup": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "ByteDance.CapCut": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "calibre.calibre": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Canva.Canva": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "Caprine.Caprine": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Captura.Captura": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Celestia.Celestia": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Celsys.ClipStudioPaint": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "ChemTableSoftware.AutorunOrganizer": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Chocolatey.Chocolatey": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Chocolatey.ChocolateyGUI": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "chrisant996.Clink": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "ChristianKindahl.InfraRecorder": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "erro HTTP 403"
   },
   "chrox.Readest": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "CiderCollective.Cider": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Cisco.ClamAV": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Cisco.Webex": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Citrix.Workspace": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Citrix.Workspace.LTSR": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "ClamWin.ClamWin": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "erro HTTP 403"
   },
   "ClashVergeRev.ClashVergeRev": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "Clementine.Clementine": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "CleverFiles.DiskDrill": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok",
    "ultimaFalha": "2026-11-21T07:16:43Z"
   },
   "ClickUp.ClickUp": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Clockify.Clockify": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "ClockworkMod.UniversalADBDriver": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "CloudCompare.CloudCompare": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Cloudflare.cloudflared": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "Cloudflare.Warp": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "clsid2.mpc-hc": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "CNRISTI.MeshLab": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Cockos.REAPER": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "CodeBlocks.CodeBlocks": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "erro HTTP 403"
   },
   "CodeBlocks.CodeBlocks.MinGW": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "erro HTTP 403"
   },
   "CodecGuide.K-LiteCodecPack.Basic": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "CodecGuide.K-LiteCodecPack.Full": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "CodecGuide.K-LiteCodecPack.Mega": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "CodecGuide.K-LiteCodecPack.Standard": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Codeium.Windsurf": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "CodeJelly.Launchy": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok",
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere",
    "ultimaFalha": "2026-11-21T07:16:43Z"
   },
   "CodeLite.CodeLite": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "CodeSector.TeraCopy": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "commercialhaskell.stack": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Comodo.ComodoDragon": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "CondaForge.Mambaforge": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "CondaForge.Miniforge3": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "CoreFTP.CoreFTP": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Corel.WinZip": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "o link abre uma página (text/plain), não um arquivo"
   },
   "CoreyButler.NVMforWindows": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Corsair.iCUE.4": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "link ok (arquivo grande, SHA256 não conferido)"
   },
   "Corsair.iCUE.5": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "CPUID.CPU-Z": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "CPUID.HWMonitor": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Cryptomator.Cryptomator": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "CrystalDewWorld.CrystalDiskInfo": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "erro HTTP 403"
   },
   "CrystalDewWorld.CrystalDiskInfo.ShizukuEdition": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "erro HTTP 403"
   },
   "CrystalDewWorld.CrystalDiskMark": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "erro HTTP 403"
   },
   "CrystalRich.LockHunter": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "CyberGhost.CyberGhost": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Cygwin.Cygwin": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "darktable.darktable": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Dashlane.Dashlane": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Daum.PotPlayer": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "DBBrowserForSQLite.DBBrowserForSQLite": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "DBeaver.DBeaver.Community": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "DBVis.DBVisualizer": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "DebaucheeOpenSourceGroup.Barrier": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "dechamps.FlexASIO": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "DeepL.DeepL": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Deezer.Deezer": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Dell.CommandUpdate": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Dell.CommandUpdate.Universal": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "DeltaChat.DeltaChat": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "DelugeTeam.Deluge": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "den4b.ReNamer": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Deskflow.Deskflow": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "DEVCOM.JMeter": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "DEVCOM.Lua": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "Devolutions.RemoteDesktopManager": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "Devolutions.UniGetUI": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "DigiDNA.iMazing": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "DigitalExtremes.Warframe": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "DigitalScholar.Zotero": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "DigitalVolcanoSoftware.DuplicateCleaner.5": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "DimitriVanHeesch.Doxygen": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "Ditto.Ditto": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Docker.DockerDesktop": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Doist.Todoist": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "DolphinEmulator.Dolphin": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "erro HTTP 403"
   },
   "DominikReichl.KeePass": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "erro HTTP 403"
   },
   "DOSBox.DOSBox": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "erro HTTP 403"
   },
   "DOSBoxStaging.DOSBoxStaging": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Doxie.Doxie": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Dropbox.Dropbox": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "DuoSecurity.DuoDesktop": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "DupeGuru.DupeGuru": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Duplicati.Duplicati": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "DWANGO.OpenToonz": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Dynalist.Dynalist": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "EaseUS.PartitionMaster": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "EaseUS.TodoBackup": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Eassos.DiskGenius": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "ebkr.r2modman": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "EclipseAdoptium.Temurin.11.JDK": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "EclipseAdoptium.Temurin.17.JDK": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "EclipseAdoptium.Temurin.17.JRE": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "EclipseAdoptium.Temurin.21.JDK": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "EclipseAdoptium.Temurin.21.JRE": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "EclipseAdoptium.Temurin.8.JDK": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "EclipseAdoptium.Temurin.8.JRE": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "EclipseFoundation.Mosquitto": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "EFDSoftware.HDTunePro": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "eibol.FFmpegBatchAVConverter": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "ElaborateBytes.VirtualCloneDrive": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Elastic.Elasticsearch": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "electerm.electerm": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "ElectronicArts.EADesktop": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "ElectronicArts.Origin": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "erro HTTP 404"
   },
   "Element.Element": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "ElementLabs.LMStudio": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Elgato.CameraHub": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Elgato.StreamDeck": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Elixir.Elixir": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "eloston.ungoogled-chromium": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Embarcadero.Dev-C++": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "EMQ.MQTTX": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
-  },
-  "Emsisoft.EmergencyKit": {
-   "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
+  "Emsisoft.EmergencyKit": {
+   "falhasSeguidas": 1,
+   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoMotivo": "SHA256 diferente do esperado (arquivo trocado ou corrompido)",
+   "ultimaFalha": "2026-11-23T07:43:09Z"
+  },
   "Emulationstation.Emulationstation": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "URLError: <urlopen error [Errno 111] Connection refused>"
   },
   "Emurasoft.EmEditor": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "ente-io.auth-desktop": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "EpicGames.EpicGamesLauncher": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Eraser.Eraser": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "erro HTTP 403"
   },
   "ErkanOzgurYilmaz.DisplayCAL": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Erlang.ErlangOTP": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "ESET.EndpointAntivirus": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "ESET.Nod32": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "ESET.Security": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Espanso.Espanso": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Estmob.SendAnywhere": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "eTeks.SweetHome3D": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "erro HTTP 403"
   },
   "Eugeny.Tabby": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Evernote.Evernote": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "EZBSystems.UltraISO": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "FACEITLTD.FACEITClient": {
    "falhasSeguidas": 0,
    "ultimaFalha": "2026-11-17T07:26:58Z",
    "ultimoMotivo": "ok",
-   "ultimoOk": "2026-11-22T07:17:53Z"
+   "ultimoOk": "2026-11-23T07:43:09Z"
   },
   "Famatech.AdvancedIPScanner": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "Famatech.Radmin.Server": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok",
    "ultimaFalha": "2026-11-20T07:25:49Z"
   },
   "Famatech.RadminVPN": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "FastCopy.FastCopy": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "FastStone.Capture": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "FastStone.Viewer": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Ferdium.Ferdium": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Figma.Figma": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "FilenCloud.FilenSync": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "FinalWire.AIDA64.Engineer": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "FinalWire.AIDA64.Extreme": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "FireAlpaca.FireAlpaca": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "FirebirdProject.Firebird.4": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "FireDaemon.OpenSSL": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Fitbit.FitbitOSSimulator": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Flameshot.Flameshot": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Flexense.DiskSavvy": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "o link abre uma página (text/html), não um arquivo"
   },
   "flick9000.WinScript": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "FlorianHeidenreich.Mp3tag": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "flos-freeware.Notepad2": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Flow-Launcher.Flow-Launcher": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "flux.flux": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "FontForge.FontForge": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Fork.Fork": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "fotor.fotor": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Foundry376.Mailspring": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Foxit.FoxitReader": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Foxit.FoxitReader.Inno": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Foxit.PhantomPDF": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "FreeCAD.FreeCAD": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Freelensapp.Freelens": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Freeplane.Freeplane": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "erro HTTP 403"
   },
   "frequency403.OpenSSHGUI": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "FunRoutine.WorkFlowy": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "FxSound.FxSound": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Gabriel2392.BrokkrFlash": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Gajim.Gajim": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "GanttProject.GanttProject": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Garena.Garena": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Garmin.Express": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "GDevelop.GDevelop": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Geany.Geany": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Geeks3D.FurMark.2": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "geeksoftwareGmbH.PDF24Creator": {
-   "falhasSeguidas": 0,
+   "falhasSeguidas": 1,
    "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoMotivo": "URLError: <urlopen error _ssl.c:994: The handshake operation timed out>",
+   "ultimaFalha": "2026-11-23T07:43:09Z"
   },
   "GeneralOutline.Outline": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Genymobile.Genymotion": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "GeoGebra.CalculatorSuite": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "GeoGebra.Classic": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Ghisler.TotalCommander": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "GIMP.GIMP": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "GIMP.GIMP.2": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "GIMP.GIMP.3": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Giorgiotani.Peazip": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Git.Git": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "GitButler.GitButler": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "GitExtensionsTeam.GitExtensions": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "GitHub.cli": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "GitHub.GitHubDesktop": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Giuspen.Cherrytree": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Glarysoft.GlaryUtilities": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "GlassWire.GlassWire": {
-   "falhasSeguidas": 0,
+   "falhasSeguidas": 1,
    "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoMotivo": "erro HTTP 403",
+   "ultimaFalha": "2026-11-23T07:43:09Z"
   },
   "GlavSoft.TightVNC": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "glzr-io.glazewm": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "GNE.DualMonitorTools": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "erro HTTP 403"
   },
   "GNU.Emacs": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "GNU.Octave": {
    "falhasSeguidas": 0,
    "ultimaFalha": "2026-11-17T01:50:16Z",
    "ultimoMotivo": "ok",
-   "ultimoOk": "2026-11-22T07:17:53Z"
+   "ultimoOk": "2026-11-23T07:43:09Z"
   },
   "GNU.TeXmacs": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "GnuCash.GnuCash": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "GnuPG.GnuPG": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "GnuPG.Gpg4win": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "GOG.Galaxy": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "GoLang.Go": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "GoldenDict.GoldenDict": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "GoldWave.GoldWave": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "GOMLab.GOMPlayer": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Google.AndroidStudio": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Google.Chrome": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Google.ChromeRemoteDesktopHost": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Google.CloudSDK": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Google.EarthPro": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Google.GeminiDesktop": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Google.GoogleDrive": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Google.Picasa": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "GorillaDevs.GDLauncher": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "GoTo.GoTo": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "GoTo.GoToMeeting": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "GottCode.FocusWriter": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok",
    "ultimaFalha": "2026-11-21T07:16:43Z"
   },
   "GPSoftware.DirectoryOpus": {
-   "falhasSeguidas": 0,
+   "falhasSeguidas": 1,
    "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoMotivo": "SHA256 diferente do esperado (arquivo trocado ou corrompido)",
+   "ultimaFalha": "2026-11-23T07:43:09Z"
   },
   "GrafanaLabs.Grafana.OSS": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "GrafanaLabs.k6": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Grammarly.Grammarly": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Graphviz.Graphviz": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Greenshot.Greenshot": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Guilded.Guilded": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "arquivo pequeno demais (0 bytes)"
   },
   "HandBrake.HandBrake": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "HARMAN.AdobeAIR": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "Hashicorp.Vagrant": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Hasleo.BackupSuiteFree": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "HDDGURU.HDDLLFTool": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "HearthSim.HearthstoneDeckTracker": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "HeidiSQL.HeidiSQL": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Henry++.simplewall": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "HeroicGamesLauncher.HeroicGamesLauncher": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Heroku.HerokuCLI": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "HexChat.HexChat": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Hibbiki.Chromium": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "HiBitSoftware.HiBitUninstaller": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "Hiddify.Next": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Highresolution.X-MouseButtonControl": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "hluk.CopyQ": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "HomeBank.HomeBank": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "hoppscotch.Hoppscotch": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "HP.ImageAssistant": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "HP.SupportAssistant": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "HTTPToolKit.HTTPToolKit": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Hugin.Hugin": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "erro HTTP 403"
   },
   "HulubuluSoftware.AdvancedRenamer": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "HydraLauncher.Hydra": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "IcoFXSoftware.icofx": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "Icons8.Lunacy": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "icsharpcode.ILSpy": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "IDMComputerSolutions,Inc.UltraEdit": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "IDrive.IDrive": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "erro HTTP 404"
   },
   "IDRIX.VeraCrypt": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "ImageMagick.ImageMagick": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "iMobieInc.Ashampoo": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Inkscape.Inkscape": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "input-leap.input-leap": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Insecure.Nmap": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Insomnia.Insomnia": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Insynchq.Insync": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Intel.IntelDriverAndSupportAssistant": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Intel.ProcessorIdentificationUtility": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "erro HTTP 403"
   },
   "Internxt.Drive": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "IObit.AdvancedSystemCare": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "IObit.DriverBooster": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "IObit.IObitUnlocker": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "IObit.SmartDefrag": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "IObit.Uninstaller": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "IrfanSkiljan.IrfanView": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Iterate.Cyberduck": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "IZArc.IZArc": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "JabRef.JabRef": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Jagex.OldSchoolRunescape": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Jagex.Runescape": {
-   "falhasSeguidas": 0,
+   "falhasSeguidas": 1,
    "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoMotivo": "SHA256 diferente do esperado (arquivo trocado ou corrompido)",
+   "ultimaFalha": "2026-11-23T07:43:09Z"
   },
   "JAMSoftware.TreeSize": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "JAMSoftware.TreeSize.Free": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "JavadMotallebi.NeatDownloadManager": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "jbreland.uniextract": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Jellyfin.JellyfinMediaPlayer": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Jellyfin.Server": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "jely2002.youtube-dl-gui": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "JetBrains.CLion": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "JetBrains.DataGrip": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "JetBrains.dotPeek": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "JetBrains.GoLand": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "JetBrains.IntelliJIDEA": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "JetBrains.IntelliJIDEA.Community": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "link ok (arquivo grande, SHA256 não conferido)"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "JetBrains.IntelliJIDEA.Ultimate": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "link ok (arquivo grande, SHA256 não conferido)"
   },
   "JetBrains.PhpStorm": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "JetBrains.PyCharm": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "JetBrains.PyCharm.Community": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "link ok (arquivo grande, SHA256 não conferido)"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "JetBrains.PyCharm.Professional": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "JetBrains.Rider": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "JetBrains.RubyMine": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "JetBrains.RustRover": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "link ok (arquivo grande, SHA256 não conferido)"
   },
   "JetBrains.TeamCity": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "JetBrains.Toolbox": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "JetBrains.WebStorm": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "JFrog.Conan": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "JGraph.Draw": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "JimRadford.SuperPuTTY": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Jitbit.MacroRecorder": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Jitsi.Meet": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "JLC.EasyEDA": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "JohannesMillan.superProductivity": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "JohnMacFarlane.Pandoc": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "joncampbell123.DOSBox-X": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Joplin.Joplin": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "JTKsoftware.JoyToKey": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Jubler.App": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "jurplel.qView": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Kakao.KakaoTalk": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere",
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok",
    "ultimaFalha": "2026-11-21T07:16:43Z"
   },
   "KDE.CrowTranslate": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "KDE.digiKam": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "KDE.Falkon": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "KDE.KDEConnect": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "KDE.Kdenlive": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "KDE.KDevelop": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "KDE.KDiff3": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "KDE.kmymoney": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "KDE.Krita": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "KDE.Okular": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "KDE.Umbrello": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "KeePassXCTeam.KeePassXC": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "KeeWeb.KeeWeb": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Keybase.Keybase": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "KhronosGroup.VulkanRT": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "KhronosGroup.VulkanSDK": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "KiCad.KiCad": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "link ok (arquivo grande, SHA256 não conferido)"
   },
   "Kingsoft.WPSOffice": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Kingston.SSDManager": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Kitware.CMake": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Klocman.BulkCrapUninstaller": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Kopia.KopiaUI": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Kotatogram.Kotatogram": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Kubernetes.minikube": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "LacunaSoftware.WebPKI": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "erro HTTP 404"
   },
   "LamantineSoftware.StickyPassword": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Lapce.Lapce": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "LastPass.LastPass": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Learnpulse.Screenpresso": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "LeNgocKhoa.Laragon": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Lenovo.SystemUpdate": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "LesFerch.WinSetView": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Levitsky.FontBase": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "LGUG2Z.komorebi": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "LibreCAD.LibreCAD": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Libretro.RetroArch": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "LibreWolf.LibreWolf": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "LIGHTNINGUK.ImgBurn": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "LimeTechnology.UnraidUSBCreator": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok",
    "ultimaFalha": "2026-11-20T07:25:49Z"
   },
   "LiteratureAndLatte.Scrivener": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "LiteXLTeam.LiteXL": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "LizardByte.Sunshine": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "LLVM.LLVM": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "LMMS.LMMS": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "LocalSend.LocalSend": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "LocktimeSoftware.NetLimiter": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Logitech.GHUB": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Logitech.Options": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Logitech.OptionsPlus": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "LogMeIn.Hamachi": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Logseq.Logseq": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "LukiLabs.Craft": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "LuminanceHDR.LuminanceHDR": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "erro HTTP 403"
   },
   "LWKS.Lightworks": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "LyX.LyX": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok",
    "ultimaFalha": "2026-11-21T07:16:43Z"
   },
   "Mailbird.Mailbird": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Malwarebytes.Malwarebytes": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "MariaDB.Server": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "MarkText.MarkText": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "MathiasSvensson.MultiCommander": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Mattermost.MattermostDesktop": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Maximus5.ConEmu": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Maxon.ZBrush.2026": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Maxthon.Maxthon": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "mcmilk.7zip-zstd": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "mcuee.libusbK": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "MediaArea.MediaInfo.GUI": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Medibang.MediBangPaintPro": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Mega.MEGASync": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Meld.Meld": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Meltytech.Shotcut": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "mesonbuild.meson": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "MichaelTippach.ASIO4ALL": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "MicroSIP.MicroSIP": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.AccessDatabaseEngine.2016": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.Azure.DataStudio": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.Azure.FunctionsCoreTools": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.Azure.StorageExplorer": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.AzureCLI": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.Bicep": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.DirectX": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.DotNet.AspNetCore.8": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.DotNet.AspNetCore.9": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.DotNet.DesktopRuntime.10": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.DotNet.DesktopRuntime.6": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.DotNet.DesktopRuntime.8": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.DotNet.DesktopRuntime.9": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.DotNet.Framework.DeveloperPack_4": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.DotNet.Runtime.10": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Microsoft.DotNet.Runtime.8": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.DotNet.Runtime.9": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Microsoft.DotNet.SDK.10": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.DotNet.SDK.8": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.DotNet.SDK.9": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Microsoft.Edge": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.EdgeWebView2Runtime": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.Git": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.LAPS": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.MouseandKeyboardCenter": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.MouseWithoutBorders": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.Office": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok",
    "ultimaFalha": "2026-11-18T07:25:43Z"
   },
   "Microsoft.OneDrive": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.OpenJDK.17": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.OpenJDK.21": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.PowerAutomateDesktop": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.PowerBI": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "Microsoft.PowerToys": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.RemoteDesktopClient": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.RemoteHelp": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.SqlPackage.NETFramework": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.SQLServer.2019.Express": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "erro HTTP 404"
   },
   "Microsoft.SQLServer.2022.Developer": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.SQLServer.2022.Express": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.SQLServerManagementStudio": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.SQLServerManagementStudio.21": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.VCRedist.2005.x64": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.VCRedist.2005.x86": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.VCRedist.2008.x64": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.VCRedist.2008.x86": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.VCRedist.2010.x64": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.VCRedist.2010.x86": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.VCRedist.2012.x64": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.VCRedist.2012.x86": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.VCRedist.2013.x64": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.VCRedist.2013.x86": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.VCRedist.2015+.x64": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.VCRedist.2015+.x86": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.VisioViewer": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.VisualStudio.2022.BuildTools": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.VisualStudio.2022.Community": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.VisualStudio.2022.Professional": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.VisualStudio.Community": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.VisualStudioCode": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.WindowsADK": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.WindowsAppRuntime.1.4": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.WindowsAppRuntime.1.5": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.WindowsAppRuntime.1.6": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.WindowsPCHealthCheck": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "Microsoft.WSL": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Microsoft.XNARedist": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Mikrotik.TheDude": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "MiKTeX.MiKTeX": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "MilosParipovic.OneCommander": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok",
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere",
    "ultimaFalha": "2026-11-21T07:16:43Z"
   },
   "MiniTool.PartitionWizard.Free": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "Miro.Miro": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "mitmproxy.mitmproxy": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Mixxx.Mixxx": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "MKLabs.StarUML": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Modeliosoft.Modelio": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "ModelMakerTools.SimpleMindPro": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "ModOrganizer2.modorganizer": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "Modrinth.ModrinthApp": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Mojang.MinecraftLauncher": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "moneymanagerex.moneymanagerex": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "MongoDB.Compass.Community": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "MongoDB.Compass.Full": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "MongoDB.Server": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Mono.Mono": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "MoonchildProductions.PaleMoon": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "MoonlightGameStreamingProject.Moonlight": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Moonsworth.LunarClient": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "MoritzBunkus.MKVToolNix": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Mozilla.Firefox": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Mozilla.Firefox.ESR": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Mozilla.SeaMonkey": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Mozilla.Thunderbird": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Mozilla.Thunderbird.pt-BR": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "mpv.net": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "mRemoteNG.mRemoteNG": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "MSYS2.MSYS2": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "MTSD.AllDup": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Mu.Mu": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "MuhammedKalkan.OpenLens": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "MullvadVPN.MullvadBrowser": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "MullvadVPN.MullvadVPN": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Mumble.Mumble.Client": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Musescore.Musescore": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "MusicBrainz.Picard": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "MyPaint.MyPaint": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "namazso.OpenHashTab": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "NathanMoinvaziri.ExtractNow": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "NCHSoftware.WavePad": {
-   "falhasSeguidas": 0,
+   "falhasSeguidas": 1,
    "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoMotivo": "SHA256 diferente do esperado (arquivo trocado ou corrompido)",
+   "ultimaFalha": "2026-11-23T07:43:09Z"
   },
   "Nefarius.HidHide": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Neo4j.Neo4jDesktop": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "Neovim.Neovim": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Netdata.Netdata": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "NetSetMan.NetSetMan": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok",
    "ultimaFalha": "2026-11-20T07:25:49Z"
   },
   "Nevcairiel.LAVFilters": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "newdee.Magpie": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Nextcloud.NextcloudDesktop": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "NextDNS.NextDNS": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "NexusMods.Vortex": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "NGWIN.PicPick": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "NickeManarin.ScreenToGif": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Nickvision.Parabolic": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Nikkho.FileOptimizer": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "erro HTTP 403"
   },
   "Nikse.SubtitleEdit": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Nilesoft.Shell": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "NirSoft.BlueScreenView": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "NirSoft.ShellExView": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "NitroSoftware.NitroPro": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Nlitesoft.NTLite": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "NodirTemirkhodjaev.FortFirewall": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "NoMachine.NoMachine": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "nomacs.nomacs": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "nomic.gpt4all": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "NordSecurity.NordPass": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "NordSecurity.NordVPN": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Nota.Gyazo": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Notepad++.Notepad++": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Notion.Notion": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "NovabenchInc.Novabench": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "nukeop.nuclear": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "NurgoSoftware.AquaSnap": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Nvidia.CUDA": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Nvidia.FrameView": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Nvidia.GeForceNow": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Nvidia.PhysX": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "Obsidian.Obsidian": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "OBSProject.OBSStudio": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Ocenaudio.Ocenaudio": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "OISF.Suricata": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "OliveTeam.OliveVideoEditor": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Ollama.Ollama": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Omnissa.HorizonClient": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "ONLYOFFICE.DesktopEditors": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "OO-Software.Defrag.Professional": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Ookla.Speedtest.Desktop": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Open-Shell.Open-Shell-Menu": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "OpenBoxLab.RaiDrive": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "OpenJS.NodeJS": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "OpenJS.NodeJS.LTS": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "OpenMedia.4KVideoDownloader": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "OpenMedia.4KYoutubetoMP3": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "OpenRGB.OpenRGB": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "OpenSCAD.OpenSCAD": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "OpenShot.OpenShot": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "OpenVPNTechnologies.OpenVPN": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "OpenVPNTechnologies.OpenVPNConnect": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "OpenWebUI.OpenWebUI": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "OpenWhisperSystems.Signal": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Opera.Opera": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Opera.OperaAir": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Opera.OperaGX": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Oracle.JavaRuntimeEnvironment": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "Oracle.JDK.17": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "o link abre uma página (text/plain), não um arquivo"
   },
   "Oracle.JDK.21": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "o link abre uma página (text/plain), não um arquivo"
   },
   "Oracle.MySQL": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Oracle.MySQLWorkbench": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Oracle.VirtualBox": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "OramaInteractive.Pixelorama": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "OSGeo.QGIS": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "OsirisDevelopment.BatteryBar": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "URLError: <urlopen error timed out>"
   },
   "OSSEC.OSSECAgent": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Overwolf.CurseForge": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "ownCloud.ownCloudDesktop": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "OxygenCloud.odrive": {
-   "falhasSeguidas": 0,
+   "falhasSeguidas": 1,
    "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoMotivo": "SHA256 diferente do esperado (arquivo trocado ou corrompido)",
+   "ultimaFalha": "2026-11-23T07:43:09Z"
   },
   "ParadoxInteractive.ParadoxLauncher": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok",
    "ultimaFalha": "2026-11-18T07:25:43Z"
   },
   "Parsec.Parsec": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "PassMark.BatteryMon": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "PassMark.KeyboardTest": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "PassMark.MonitorTest": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "PassMark.OSFMount": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "PassMark.PerformanceTest": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "PatchMyPC.PatchMyPC": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "PaulPacifico.ShutterEncoder": {
-   "falhasSeguidas": 0,
+   "falhasSeguidas": 1,
    "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoMotivo": "SHA256 diferente do esperado (arquivo trocado ou corrompido)",
+   "ultimaFalha": "2026-11-23T07:43:09Z"
   },
   "PawelSalawa.SQLiteStudio": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "pCloudAG.pCloudDrive": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "PCSX2Team.PCSX2": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "PDFArranger.PDFArranger": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "PDFgear.PDFgear": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "PDFsam.PDFsam": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "PerfectWorld.TowerOfFantasy": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "erro HTTP 404"
   },
   "Perforce.P4Merge": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "PersepolisDownloadManager.Persepolis": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "PeterBienstman.Mnemosyne": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "erro HTTP 403"
   },
   "PeterPawlowski.foobar2000": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Pidgin.Pidgin": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "erro HTTP 403"
   },
   "Pinta.Pinta": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Piriform.CCleaner": {
-   "falhasSeguidas": 1,
-   "ultimoOk": "2026-11-21T07:16:43Z",
-   "ultimoMotivo": "SHA256 diferente do esperado (arquivo trocado ou corrompido)",
+   "falhasSeguidas": 0,
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok",
    "ultimaFalha": "2026-11-22T07:17:53Z"
   },
   "Piriform.CCleaner.Slim": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Piriform.Defraggler": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Piriform.Recuva": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "Piriform.Speccy": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Playnite.Playnite": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "PlayStation.PSRemotePlay": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "o link abre uma página (text/plain), não um arquivo"
   },
   "Plex.Plex": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Plex.Plexamp": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Plex.PlexMediaServer": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "PopcornTime.Popcorn-Time": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "erro HTTP 404"
   },
   "PortSwigger.BurpSuite": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "PortSwigger.BurpSuite.Community": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "PortSwigger.BurpSuite.Professional": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Posit.Positron": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Posit.RStudio": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Postbox.Postbox": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "URLError: <urlopen error [Errno -5] No address associated with hostname>"
   },
   "PostgreSQL.pgAdmin": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "Postman.Postman": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "PowerSoftware.AnyBurn": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "PowerSoftware.PowerISO": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok",
    "ultimaFalha": "2026-11-18T07:25:43Z"
   },
   "PowTools.FileShredder": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "PPSSPPTeam.PPSSPP": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "ppy.osu": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "PremiumSoft.NavicatPremium": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "PrestoSoft.ExamDiff": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "PrismLauncher.PrismLauncher": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Pritunl.PritunlClient": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Project64.Project64": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "ProjectJupyter.JupyterLab": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "ProjectLibre.ProjectLibre": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "erro HTTP 403"
   },
   "Proton.ProtonDrive": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Proton.ProtonMail": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "Proton.ProtonMailBridge": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Proton.ProtonVPN": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Proxyman.Proxyman": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "Prusa3D.PrusaSlicer": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Pulsar-Edit.Pulsar": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Pulumi.Pulumi": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "PuTTY.PuTTY": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Python.Launcher": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Python.Python.3.11": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Python.Python.3.12": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Python.Python.3.13": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "qBittorrent.qBittorrent": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "erro HTTP 403"
   },
   "qishibo.AnotherRedisDesktopManager": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "QL-Win.QuickLook": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "QNAP.QfinderPro": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "QNAP.Qsync": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "QTextPad.QTextPad": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "QTTabBar.QTTabBar": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "erro HTTP 403"
   },
   "QuodLibet.QuodLibet": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Rainmeter.Rainmeter": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Rambox.Rambox": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "RamenSoftware.Windhawk": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "RandyRants.SharpKeys": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "RARLab.WinRAR": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "RaspberryPiFoundation.RaspberryPiImager": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "RawTherapee.RawTherapee": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "REALiX.HWiNFO": {
    "falhasSeguidas": 0,
    "ultimaFalha": "2026-11-20T07:25:49Z",
-   "ultimoMotivo": "SHA256 confere",
-   "ultimoOk": "2026-11-22T07:17:53Z"
+   "ultimoMotivo": "ok",
+   "ultimoOk": "2026-11-23T07:43:09Z"
   },
   "RealVNC.RealVNCConnct": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "RedHat.Podman": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "RedHat.Podman-Desktop": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "RedHat.VirtIO": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "o link abre uma página (text/html), não um arquivo"
   },
   "RedisInsight.RedisInsight": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Rem0o.FanControl": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "RemoteUtilities.Server": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Resplendence.LatencyMon": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok",
    "ultimaFalha": "2026-11-21T07:16:43Z"
   },
   "Resplendence.WhoCrashed": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Resplendence.WhySoSlow": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "RevoUninstaller.RevoUninstaller": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "rickbutton.workspacer": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Ricoh.RicohTheta": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "RiotGames.LeagueOfLegends.BR": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "RiotGames.Valorant.BR": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Rizonesoft.Notepad3": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "rocksdanister.LivelyWallpaper": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "RockstarGames.Launcher": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "RonyShapiro.PasswordSafe": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "RoyalApps.RoyalTS.7": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "RProject.R": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "RubyInstallerTeam.Ruby.3.3": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "RubyInstallerTeam.RubyWithDevKit.3.3": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Rustlang.Rustup": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "SaaSGroup.Tower": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "SaeraSoft.CaesiumImageCompressor": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "SaeraSoft.CaesiumPH": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "SaferNetworking.SpybotAntiBeacon": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Safing.Portmaster": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Samsung.DeX": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Samsung.SmartSwitch": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "SamuelTulach.VirusTotalUploader": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Sandboxie.Classic": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Sandboxie.Plus": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Schezo.Lhaplus": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Scilab.Scilab": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "ScooterSoftware.BeyondCompare.5": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Scribus.Scribus": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "erro HTTP 403"
   },
   "ScummVM.ScummVM": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Seafile.Seafile": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "Seagate.SeaTools": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "SergeySerkov.TagScanner": {
-   "falhasSeguidas": 1,
+   "falhasSeguidas": 0,
    "ultimaFalha": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "URLError: <urlopen error [Errno 101] Network is unreachable>",
-   "ultimoOk": "2026-11-21T07:16:43Z"
+   "ultimoMotivo": "ok",
+   "ultimoOk": "2026-11-23T07:43:09Z"
   },
   "Session.Session": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Shadow.Shadow": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "ShareX.ShareX": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "ShiningLight.OpenSSL.Light": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "SiberSystems.GoodSync": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "SiberSystems.RoboForm": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "Sidekick-Poe.Sidekick": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "SimpleX.SimpleX-Chat": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Sinew.Enpass": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Skiff.Skiff": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Skillbrains.Lightshot": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "SlackTechnologies.Slack": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "SleuthKit.Autopsy": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "slowscript.Warpinator": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "SmartBear.SoapUI": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "smartfrigde.Legcord": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "smartmontools.smartmontools": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "SmartSoft.SmartFTP": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "SMPlayer.SMPlayer": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "SoftDeluxe.FreeDownloadManager": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "SoftFever.OrcaSlicer": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "SoftMaker.Office.NX": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "SoftPerfect.NetworkScanner": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "SoftwareFreedomConservancy.QEMUGuestAgent": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "o link abre uma página (text/html), não um arquivo"
   },
   "SonicWall.NetExtender": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "SourceGear.DiffMerge": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "SouthRiverTechnologies.WebDrive": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "SpecialK.SpecialK": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "Splashtop.SplashtopBusiness": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Splashtop.SplashtopPersonal": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Splashtop.SplashtopStreamer": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "SplitmediaLabs.XSplitBroadcaster": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Spotify.Spotify": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Spyder.Spyder": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Squirrels.AirParrot3": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "SRWare.Iron": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "SSHFS-Win.SSHFS-Win": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Stacher.Stacher": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "StandardNotes.StandardNotes": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Starship.Starship": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "StartIsBack.StartAllBack": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "StartIsBack.StartIsBack": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "SteamGridDB.RomManager": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "SteelSeries.GG": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "SteelSeries.SteelSeriesEngine": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Stellarium.Stellarium": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "SteveTheKiller.KillerPDF": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "StrawberryPerl.StrawberryPerl": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Streamlabs.Streamlabs": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Streetwriters.Notesnook": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Stremio.Stremio": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "subhra74.XtremeDownloadManager": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "SublimeHQ.SublimeMerge": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "SublimeHQ.SublimeText.4": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "SumatraPDF.SumatraPDF": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "SUPERAntiSpyware.SUPERAntiSpyware": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Surfshark.Surfshark": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "SUSE.RancherDesktop": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "SweetScape.010Editor": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "sylikc.JPEGView": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "Symless.Synergy": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "Sync.Sync": {
    "falhasSeguidas": 0,
@@ -4566,741 +4575,742 @@
   },
   "SyncTrayzor.SyncTrayzor": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Synfig.SynfigStudio": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Synology.ActiveBackupForBusinessAgent": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "Synology.DriveClient": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Tableau.Desktop": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok",
    "ultimaFalha": "2026-11-21T07:16:43Z"
   },
   "TablePlus.TablePlus": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Taiizor.SucroseWallpaperEngine": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Taiko2k.TauonMusicBox": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "tailscale.tailscale": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Taozuhong.KangarooMariaDB": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Taskcade.Taskade": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "TeamSpeakSystems.TeamSpeakClient": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "TeamViewer.TeamViewer": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "TeamViewer.TeamViewer.Host": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "TechPowerUp.GPU-Z": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "erro HTTP 404"
   },
   "TechPowerUp.NVCleanstall": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "erro HTTP 404"
   },
   "TechSmith.Camtasia": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Telegram.TelegramDesktop": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Telerik.Fiddler.Classic": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Telerik.Fiddler.Everywhere": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "Tenable.Nessus": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok",
    "ultimaFalha": "2026-11-18T07:25:43Z"
   },
   "TenacityTeam.Tenacity": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok",
    "ultimaFalha": "2026-11-18T07:25:43Z"
   },
   "Tencent.WeChat": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Tenpi.Waifu2xGUI": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "erro HTTP 404"
   },
   "Terminals.Terminals": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Termius.Termius": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "Tesseract.Tesseract.Stable": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Texmaker.Texmaker": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "TeXstudio.TeXstudio": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "TextExpander.TextExpander": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "TGRMNSoftware.BulkRenameUtility": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "th-ch.YouTubeMusic": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "TheDocumentFoundation.LibreOffice": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok",
    "ultimaFalha": "2026-11-21T07:16:43Z"
   },
   "TheDocumentFoundation.LibreOffice.HelpPack": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "TheQtCompanyLtd.QtCreator": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "thomasnordquist.MQTT-Explorer": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Threema.Threema": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "TIDALMusicAS.TIDAL": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "TigerVNC.TigerVNC": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "erro HTTP 403"
   },
   "Tiled.Tiled": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "ToEverything.AFFiNE": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Toggl.TogglTrack": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Tonec.InternetDownloadManager": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "TopalaSoftwareSolutions.SIW": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok",
    "ultimaFalha": "2026-11-18T07:25:43Z"
   },
   "TorProject.TorBrowser": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "TortoiseGit.TortoiseGit": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "TortoiseSVN.TortoiseSVN": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "erro HTTP 403"
   },
   "TrackerSoftware.PDF-XChangePRO": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "Transmission.Transmission": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "TriliumNext.Notes": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "tsutsu3.Pi-hole-client": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "TunnelBear.TunnelBear": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Tutanota.Tutanota": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "TuxGuitar.TuxGuitar": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Tweaking.WindowsRepair": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Tyrrrz.LightBulb": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Ubiquiti.UniFiNetworkServer": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Ubisoft.Connect": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Ultimaker.Cura": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "UltraDefrag.UltraDefrag": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "erro HTTP 403"
   },
   "ultrapico.expresso": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Unigine.HeavenBenchmark": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "Unigine.SuperpositionBenchmark": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Unigine.ValleyBenchmark": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Unity.UnityHub": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Upscayl.Upscayl": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "UrBackup.UrBackup.Client": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "uvncbvba.UltraVnc": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "valinet.ExplorerPatcher": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Valve.Steam": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Vector35.BinaryNinja": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok",
    "ultimaFalha": "2026-11-21T07:16:43Z"
   },
   "Veeam.VeeamAgent": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Velocidex.Velociraptor": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "Vencord.Vesktop": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "VentoByte.Proxifier": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Vercel.Hyper": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "VideoLAN.VLC": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "ViGEm.ViGEmBus": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "vim.vim": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "VirtusLab.ScalaCLI": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "VisualParadigm.VisualParadigm": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Vitzo.ClipClip": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Vivaldi.Vivaldi": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "voidtools.Everything": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "VSCodium.VSCodium": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Vysor.Vysor": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Wagnardsoft.DisplayDriverUninstaller": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Wampserver.Wampserver": {
-   "falhasSeguidas": 0,
+   "falhasSeguidas": 1,
    "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoMotivo": "erro HTTP 404",
+   "ultimaFalha": "2026-11-23T07:43:09Z"
   },
   "Wargaming.GameCenter": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Warp.Warp": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "o link abre uma página (text/html), não um arquivo"
   },
   "Waterfox.Waterfox": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Wazuh.WazuhAgent": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "WeMod.WeMod": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok",
    "ultimaFalha": "2026-11-20T07:25:49Z"
   },
   "WerWolv.ImHex": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "wez.wezterm": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "WhirlwindFX.SignalRgb": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Win32diskimager.win32diskimager": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "erro HTTP 403"
   },
   "win32ss.Supermium": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Winamp.Winamp": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "WinDirStat.WinDirStat": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "Windscribe.Windscribe": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "WinFsp.WinFsp": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Wings3D.Wings3D": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "erro HTTP 403"
   },
   "WingSoft.FTPRush": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "WinMerge.WinMerge": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "WinSCP.WinSCP": {
-   "falhasSeguidas": 7,
-   "ultimaFalha": "2026-11-22T07:17:53Z",
+   "falhasSeguidas": 8,
+   "ultimaFalha": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "erro HTTP 403"
   },
   "WinsiderSS.SystemInformer": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "wire.wire": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "WireGuard.WireGuard": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "WiresharkFoundation.Wireshark": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "WiseCleaner.WiseCare365": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "WiseCleaner.WiseDataRecovery": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "WiseCleaner.WiseDiskCleaner": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "WiseCleaner.WiseFolderHider": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "WiseCleaner.WiseRegistryCleaner": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Wondershare.Filmora": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Wondershare.MobileTrans": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Wozhi.WizNote": {
    "falhasSeguidas": 0,
    "ultimaFalha": "2026-11-19T07:26:48Z",
    "ultimoMotivo": "ok",
-   "ultimoOk": "2026-11-22T07:17:53Z"
+   "ultimoOk": "2026-11-23T07:43:09Z"
   },
   "xanderfrangos.twinkletray": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "XBMCFoundation.Kodi": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "xiles.NexusFont": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "XMediaRecode.XMediaRecode": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Xmind.Xmind": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "XnSoft.XnConvert": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "XnSoft.XnView.Classic": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "XnSoft.XnViewMP": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Yandex.Browser": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Yandex.Disk": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Yarn.Yarn": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "YoYoGames.GameMaker.Studio.2": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Yubico.Authenticator": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Yubico.YubikeyManager": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Zabbix.Agent.2": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "ZAP.ZAP": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "ZedIndustries.Zed": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Zen-Team.Zen-Browser": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "ZeroTier.ZeroTierOne": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Zettlr.Zettlr": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Zimwiki.Zim": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Zoho.Cliq": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Zoho.Mail": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Zoho.ZohoAssist": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Zoom.Zoom": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "SHA256 confere"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "ok"
   },
   "Zoom.ZoomOutlookPlugin": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
+   "ultimoOk": "2026-11-23T07:43:09Z",
    "ultimoMotivo": "ok"
   },
   "Zoom.ZoomRooms": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   },
   "Zulip.Zulip": {
    "falhasSeguidas": 0,
-   "ultimoOk": "2026-11-22T07:17:53Z",
-   "ultimoMotivo": "ok"
+   "ultimoOk": "2026-11-23T07:43:09Z",
+   "ultimoMotivo": "SHA256 confere"
   }
  }
 }
